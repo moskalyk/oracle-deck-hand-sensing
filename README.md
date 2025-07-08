@@ -201,12 +201,13 @@ story telling
 weaving
 
 # spread
+```
       [4]   
 [1] [2] [3]
       [5]
-
-1 what you have to leave behind 
-2 where your power (or strength) emerges 
-3 present future
-4 what your dreams are telling you
-5 what your blind spots are
+```
+1. what you have to leave behind 
+2. where your power (or strength) emerges 
+3. present future
+4. what your dreams are telling you
+5. what your blind spots are
